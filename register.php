@@ -41,7 +41,7 @@
                     <label for="passwordConfirm" class="text-sm duration-200 peer-focus:text-sm peer-focus:text-slate-600 text-slate-600 peer-placeholder-shown:text-violet-100 peer-placeholder-shown:text-base peer-placeholder-shown:cursor-text">Confirm Password</label>
                 </fieldset>
                 <button type="submit" class="p-2 mt-4 rounded bg-violet-400/10 text-violet-400 hover:bg-violet-400/20">Register</button>
-                <p class="mt-4 text-slate-500">Have an account? <a href="" class="text-violet-500 hover:text-violet-400">Go to log-in</a></p>
+                <p class="mt-4 text-slate-500">Have an account? <a href="/login.php" class="text-violet-500 hover:text-violet-400">Go to log-in</a></p>
             </form>
         </div>
     </main>
